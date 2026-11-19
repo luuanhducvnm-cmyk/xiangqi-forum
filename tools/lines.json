@@ -1,0 +1,293 @@
+[
+ {
+  "id": "ln-giuoco",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Bc5",
+   "c3",
+   "Nf6",
+   "d4",
+   "exd4",
+   "cxd4",
+   "Bb4+"
+  ],
+  "alt": "Giuoco Piano main line: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.c3 Nf6 5.d4 exd4 6.cxd4 Bb4+, White has built a big centre and Black checks."
+ },
+ {
+  "id": "ln-twoknights",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Nf6"
+  ],
+  "alt": "Two Knights Defence: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6, Black counterattacks the e4 pawn."
+ },
+ {
+  "id": "ln-ruy-closed",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bb5",
+   "a6",
+   "Ba4",
+   "Nf6",
+   "O-O",
+   "Be7",
+   "Re1",
+   "b5",
+   "Bb3",
+   "d6",
+   "c3",
+   "O-O"
+  ],
+  "alt": "Closed Ruy Lopez: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O, a classic main-line structure."
+ },
+ {
+  "id": "ln-ruy-exchange",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bb5",
+   "a6",
+   "Bxc6",
+   "dxc6"
+  ],
+  "alt": "Exchange Ruy Lopez: 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6, Black has doubled c-pawns but the bishop pair."
+ },
+ {
+  "id": "ln-sic-open",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "c5",
+   "Nf3",
+   "d6",
+   "d4",
+   "cxd4",
+   "Nxd4",
+   "Nf6"
+  ],
+  "alt": "Open Sicilian: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6, an unbalanced position where White has the centre and Black the c-file."
+ },
+ {
+  "id": "ln-najdorf",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "c5",
+   "Nf3",
+   "d6",
+   "d4",
+   "cxd4",
+   "Nxd4",
+   "Nf6",
+   "Nc3",
+   "a6"
+  ],
+  "alt": "Najdorf Sicilian: 1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6."
+ },
+ {
+  "id": "ln-qgd",
+  "game": "ch",
+  "moves": [
+   "d4",
+   "d5",
+   "c4",
+   "e6",
+   "Nc3",
+   "Nf6",
+   "Bg5",
+   "Be7",
+   "e3",
+   "O-O"
+  ],
+  "alt": "Queen's Gambit Declined: 1.d4 d5 2.c4 e6 3.Nc3 Nf6 4.Bg5 Be7 5.e3 O-O."
+ },
+ {
+  "id": "ln-qga",
+  "game": "ch",
+  "moves": [
+   "d4",
+   "d5",
+   "c4",
+   "dxc4",
+   "Nf3",
+   "Nf6",
+   "e3",
+   "e6",
+   "Bxc4",
+   "c5"
+  ],
+  "alt": "Queen's Gambit Accepted: 1.d4 d5 2.c4 dxc4 3.Nf3 Nf6 4.e3 e6 5.Bxc4 c5, Black gave the pawn back and strikes at the centre."
+ },
+ {
+  "id": "ln-slav",
+  "game": "ch",
+  "moves": [
+   "d4",
+   "d5",
+   "c4",
+   "c6",
+   "Nf3",
+   "Nf6",
+   "Nc3",
+   "dxc4"
+  ],
+  "alt": "Slav Defence: 1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 dxc4."
+ },
+ {
+  "id": "ln-legal",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "d6",
+   "Bc4",
+   "Bg4",
+   "Nc3",
+   "g6",
+   "Nxe5",
+   "Bxd1",
+   "Bxf7+",
+   "Ke7",
+   "Nd5#"
+  ],
+  "alt": "L\u00e9gal's mate: after 5.Nxe5 Bxd1 6.Bxf7+ Ke7 7.Nd5# White checkmates with just two minor pieces."
+ },
+ {
+  "id": "ln-shilling",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Nd4",
+   "Nxe5",
+   "Qg5",
+   "Nxf7",
+   "Qxg2",
+   "Rf1",
+   "Qxe4+",
+   "Be2",
+   "Nf3#"
+  ],
+  "alt": "Blackburne Shilling Gambit trap: if White grabs pawns with 4.Nxe5 Qg5 5.Nxf7? Qxg2 6.Rf1 Qxe4+ 7.Be2 Nf3# Black checkmates."
+ },
+ {
+  "id": "ln-elephant",
+  "game": "ch",
+  "moves": [
+   "d4",
+   "d5",
+   "c4",
+   "e6",
+   "Nc3",
+   "Nf6",
+   "Bg5",
+   "Nbd7",
+   "cxd5",
+   "exd5",
+   "Nxd5",
+   "Nxd5",
+   "Bxd8",
+   "Bb4+",
+   "Qd2",
+   "Bxd2+",
+   "Kxd2",
+   "Kxd8"
+  ],
+  "alt": "Elephant Trap: after 6.Nxd5? Nxd5 7.Bxd8 Bb4+ 8.Qd2 Bxd2+ 9.Kxd2 Kxd8 Black has won a piece."
+ },
+ {
+  "id": "xl-elephant",
+  "game": "xq",
+  "moves": [
+   "E3+5"
+  ],
+  "alt": "Elephant opening (Flying Elephant): 1.E3+5, Red develops the elephant to the central point."
+ },
+ {
+  "id": "xl-pawn",
+  "game": "xq",
+  "moves": [
+   "P7+1"
+  ],
+  "alt": "Pawn opening: 1.P7+1, Red advances the soldier on file 7 to open lines for the elephant and the horse."
+ },
+ {
+  "id": "xl-horse",
+  "game": "xq",
+  "moves": [
+   "H2+3"
+  ],
+  "alt": "Horse opening: 1.H2+3, Red develops a horse first and keeps its options open."
+ },
+ {
+  "id": "xl-elephant-cc",
+  "game": "xq",
+  "moves": [
+   "E3+5",
+   "C2=5"
+  ],
+  "alt": "1.E3+5 C2=5: Black takes the centre at once with a cannon."
+ },
+ {
+  "id": "xl-pawn-elephant",
+  "game": "xq",
+  "moves": [
+   "P7+1",
+   "E3+5"
+  ],
+  "alt": "1.P7+1 E3+5: Black answers with the elephant move."
+ },
+ {
+  "id": "ln-friedliver",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Nf6",
+   "Ng5",
+   "d5",
+   "exd5",
+   "Nxd5",
+   "Nxf7"
+  ],
+  "alt": "Fried Liver Attack: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Nf6 4.Ng5 d5 5.exd5 Nxd5 6.Nxf7, a sharp knight sacrifice."
+ },
+ {
+  "id": "ln-evans",
+  "game": "ch",
+  "moves": [
+   "e4",
+   "e5",
+   "Nf3",
+   "Nc6",
+   "Bc4",
+   "Bc5",
+   "b4"
+  ],
+  "alt": "Evans Gambit: 1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4, White offers a pawn to gain time and build a centre."
+ }
+]

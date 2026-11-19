@@ -1,0 +1,30 @@
+# Tự động build + deploy lên Cloudflare mỗi khi có commit vào nhánh main.
+# Cần 2 "Secrets" trong GitHub (Settings → Secrets and variables → Actions): CLOUDFLARE_API_TOKEN, CLOUDFLARE_ACCOUNT_ID
+name: Deploy xiangqi.forum
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: deploy
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: Build (build dừng nếu thế cờ/đáp án/sơ đồ/liên kết sai)
+        run: python3 build.py
+      - name: Deploy
+        run: npx --yes wrangler@4 deploy
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      - name: Báo IndexNow (Bing/Yandex)
+        run: python3 tools/indexnow.py || true

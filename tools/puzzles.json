@@ -1,0 +1,282 @@
+[
+ {
+  "id": "ch1-1",
+  "game": "ch",
+  "n": 1,
+  "fen": "3k3N/1pp3R1/6Pq/1Q6/1K6/6r1/8/8 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch1-2",
+  "game": "ch",
+  "n": 1,
+  "fen": "4k3/3ppp2/8/1RBN4/3p4/8/8/1K6 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch1-3",
+  "game": "ch",
+  "n": 1,
+  "fen": "7k/P6p/p6N/8/5K2/3p4/1r1B4/8 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch1-4",
+  "game": "ch",
+  "n": 1,
+  "fen": "6nk/6pp/8/3QN3/8/8/2K3B1/8 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch1-5",
+  "game": "ch",
+  "n": 1,
+  "fen": "3k4/1P1pp3/6K1/8/5P2/8/8/3R4 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch1-6",
+  "game": "ch",
+  "n": 1,
+  "fen": "5k1B/1R2pp2/8/8/1K3P2/5p2/8/6r1 w - - 0 1",
+  "group": "ch1"
+ },
+ {
+  "id": "ch2-1",
+  "game": "ch",
+  "n": 2,
+  "fen": "8/p7/8/7k/8/5pK1/5Q2/2R5 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-2",
+  "game": "ch",
+  "n": 2,
+  "fen": "4k3/3p2K1/8/6p1/R7/3Q4/8/8 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-3",
+  "game": "ch",
+  "n": 2,
+  "fen": "6k1/6p1/p1Q5/5K2/7B/3N4/8/2N5 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-4",
+  "game": "ch",
+  "n": 2,
+  "fen": "K2k4/N1pBp2R/8/8/8/1R4p1/8/8 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-5",
+  "game": "ch",
+  "n": 2,
+  "fen": "7k/3p3p/8/5NR1/8/8/8/3K4 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-6",
+  "game": "ch",
+  "n": 2,
+  "fen": "1k6/N2R4/6KP/8/6P1/8/3p4/8 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-7",
+  "game": "ch",
+  "n": 2,
+  "fen": "5k1K/P4p2/8/6R1/2R5/8/2n5/8 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch2-8",
+  "game": "ch",
+  "n": 2,
+  "fen": "2K5/8/3N3k/1Q6/8/8/2B3p1/8 w - - 0 1",
+  "group": "ch2"
+ },
+ {
+  "id": "ch3-1",
+  "game": "ch",
+  "n": 3,
+  "fen": "3k4/2p1p3/8/8/8/6PK/4R3/2Q5 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "ch3-2",
+  "game": "ch",
+  "n": 3,
+  "fen": "2k5/8/8/6R1/6K1/R5P1/1p6/8 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "ch3-3",
+  "game": "ch",
+  "n": 3,
+  "fen": "7k/6pp/Q6K/8/8/8/R7/8 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "ch3-4",
+  "game": "ch",
+  "n": 3,
+  "fen": "1K3k2/8/6P1/4B3/8/R5p1/8/8 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "ch3-5",
+  "game": "ch",
+  "n": 3,
+  "fen": "6k1/8/2P2P2/6np/8/3K3N/8/1B6 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "ch3-6",
+  "game": "ch",
+  "n": 3,
+  "fen": "N6B/3P4/8/7k/6pP/1K6/8/8 w - - 0 1",
+  "group": "ch3"
+ },
+ {
+  "id": "xq1-1",
+  "game": "xq",
+  "n": 1,
+  "fen": "3k5/4P4/3a5/4pN3/p7R/9/9/9/5c1N1/4K4 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq1-2",
+  "game": "xq",
+  "n": 1,
+  "fen": "9/3ka4/3a5/9/2p1P4/9/9/2C2A3/9/R4K3 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq1-3",
+  "game": "xq",
+  "n": 1,
+  "fen": "3k1a3/4P4/9/2N6/6b2/9/3p3p1/5K3/9/9 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq1-4",
+  "game": "xq",
+  "n": 1,
+  "fen": "3a5/6R2/3kba3/2PN5/2b6/9/9/9/9/4K4 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq1-5",
+  "game": "xq",
+  "n": 1,
+  "fen": "2b6/5k3/3aN3R/6p2/1C7/7R1/9/1n7/4K4/9 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq1-6",
+  "game": "xq",
+  "n": 1,
+  "fen": "3ak4/4a3C/9/1Cp6/4p4/9/9/5A2B/9/3K5 w",
+  "group": "xq1"
+ },
+ {
+  "id": "xq2-1",
+  "game": "xq",
+  "n": 2,
+  "fen": "7R1/3P5/3kba3/p8/p5C2/9/9/4K4/9/3A5 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-2",
+  "game": "xq",
+  "n": 2,
+  "fen": "9/9/3Nk4/6C2/9/9/9/3A1K3/2NR5/7n1 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-3",
+  "game": "xq",
+  "n": 2,
+  "fen": "2bak4/RC7/b8/7R1/9/9/9/9/9/3K1A3 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-4",
+  "game": "xq",
+  "n": 2,
+  "fen": "5k3/9/4P4/9/2p5R/9/9/B2K5/9/8n w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-5",
+  "game": "xq",
+  "n": 2,
+  "fen": "5k3/8C/b8/5P3/6b2/3C5/9/9/9/5KB2 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-6",
+  "game": "xq",
+  "n": 2,
+  "fen": "5a3/8C/4k4/9/5R3/4p4/9/7R1/3K5/1N7 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-7",
+  "game": "xq",
+  "n": 2,
+  "fen": "2b1P3R/6C2/4k2N1/9/2b1p4/9/9/9/4cC3/3K5 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq2-8",
+  "game": "xq",
+  "n": 2,
+  "fen": "3a5/4k4/5N3/9/p8/5R3/6C2/3K1A3/9/7N1 w",
+  "group": "xq2"
+ },
+ {
+  "id": "xq3-1",
+  "game": "xq",
+  "n": 3,
+  "fen": "5k3/4a4/4ba2R/4p1p2/6b2/5N3/C8/3A1KC2/4n4/9 w",
+  "group": "xq3"
+ },
+ {
+  "id": "xq3-2",
+  "game": "xq",
+  "n": 3,
+  "fen": "R1b6/3k4C/9/2p3p2/4N4/9/1N7/3n1K3/9/2B6 w",
+  "group": "xq3"
+ },
+ {
+  "id": "xq3-3",
+  "game": "xq",
+  "n": 3,
+  "fen": "9/4n4/4k3b/C8/2p6/8R/9/4BN3/5K3/1C7 w",
+  "group": "xq3"
+ },
+ {
+  "id": "xq3-4",
+  "game": "xq",
+  "n": 3,
+  "fen": "2R6/4k4/3abCr2/4P4/9/9/9/2C6/4K4/N8 w",
+  "group": "xq3"
+ },
+ {
+  "id": "xq3-5",
+  "game": "xq",
+  "n": 3,
+  "fen": "6bN1/5k3/3a5/9/5Nb1p/9/1CR4p1/9/9/3K5 w",
+  "group": "xq3"
+ },
+ {
+  "id": "xq3-6",
+  "game": "xq",
+  "n": 3,
+  "fen": "2b6/3k5/4N4/8p/2b6/1N7/9/3nK4/4A4/2B6 w",
+  "group": "xq3"
+ }
+]
